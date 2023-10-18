@@ -26,7 +26,6 @@ body {
 }
 .Header-text{
     text-align: center;
-    position: relative;
     top: 20%;
     color: white;
     font-size: 3.1rem;
@@ -45,7 +44,6 @@ img{
     margin-top: 13%;
     margin-left: 40%;
     width: 24%;
-    position: fixed;
     transition: transform .3s ease-in-out;
 }
 .soup-img:hover {
