@@ -42,9 +42,11 @@ img{
     margin-right: auto;  
 }
 .soup-img{
-    margin-top: 5%;
-    width:20%;
-        transition: transform .3s ease-in-out;
+    margin-top: 13%;
+    margin-left: 40%;
+    width: 24%;
+    position: fixed;
+    transition: transform .3s ease-in-out;
 }
 .soup-img:hover {
     transform: rotate(180deg);
