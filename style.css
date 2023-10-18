@@ -1,0 +1,63 @@
+
+*{
+    margin: 0 ;
+    padding: 0;
+}
+article{
+    margin: 15%;
+
+}
+body {
+    font-family: "Quicksand";
+    align-items: center;
+    color: block;
+    font-weight: bolder ;
+
+  }
+  
+.Header-image{
+    height:50vh;
+    width: 100vw;
+    border-bottom: 5px solid #1E2F3C;
+    background-image:url(https://stone-horn-a78.notion.site/image/https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1161920241576726588%2F1163798379411812363%2Fsoup.jpg%3Fex%3D6540e2b3%26is%3D652e6db3%26hm%3D418edbde8a5f8794c853a400d19081c6443fd467bbab566268926860c2e28df2%26?table=block&id=7ae1c28e-accd-4c21-8c68-9393c7dbb2f1&spaceId=989539c7-7a6d-4611-9778-eb2623dec992&width=1150&userId=&cache=v2) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Header-text{
+    text-align: center;
+    position: relative;
+    top: 20%;
+    color: white;
+    font-size: 3.1rem;
+}
+.Descraption , .Ingredients , .Directions{
+    margin:2.5%;
+}
+
+img{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;  
+}
+.soup-img{
+    margin-top: 5%;
+    width:20%;
+        transition: transform .3s ease-in-out;
+}
+.soup-img:hover {
+    transform: rotate(180deg);
+  }
+
+h1 {
+    text-align: center;
+    background-color: #FFE4C4;
+    border-radius: 100%;
+    width: 10vw;
+    font-size: 1.5rem;
+    margin-bottom: 3%;
+}
+.h1{
+    margin-top: 3%;
+}
